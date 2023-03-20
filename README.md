@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Home page</title>
+<title>Homepage</title>
 </head>
 <body>
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/E-kart-logo.png">
